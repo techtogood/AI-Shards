@@ -1,0 +1,4 @@
+google-genai>=0.1.0
+akshare>=1.14.0
+playwright>=1.40.0
+pandas>=2.0.0

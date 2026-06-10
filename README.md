@@ -7,7 +7,7 @@
 
 > **散若繁星，聚火成炬。一片AI碎片，解决一个具体问题。**
 >
-> *Fixing specific real-world problems, one AI shard at a time.*
+> *Scattered like stars, burning as one. A single AI shard, solving a specific problem.*
 
 ---
 

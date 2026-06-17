@@ -10,7 +10,9 @@
 > *Scattered like stars, burning as one. A single AI shard, solving a specific problem.*
 
 ---
-[![DoraAgent](./res/ad.png)](https://www.aipocket.cn)
+<a href="https://www.aipocket.cn" target="_blank">
+  <img src="images/demo.png" alt="DoaAgent" width="300" />
+</a>
 
 ## 📖 项目简介
 

@@ -11,7 +11,7 @@
 
 ---
 <a href="https://www.aipocket.cn" target="_blank">
-  <img src="images/demo.png" alt="DoaAgent" width="300" />
+  <img src="res/ad.png" alt="DoaAgent" width="300" />
 </a>
 
 ## 📖 项目简介
